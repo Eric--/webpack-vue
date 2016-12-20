@@ -12,4 +12,4 @@
 
 7.  webpack --display-error-details    //打印错误细节，查找原因
 
-8.  
+8.  vue 1.0.14之后，Vue.js 使用 dist/vue.js 作为模块入口，而不是dist/vue.common.js
